@@ -1,0 +1,5 @@
+category,mean_count,mean_percentage,std_percentage
+same_artist_same_genre,6.52,26.08,8.38
+same_artist_different_genre,2.94,11.76,7.3
+different_artist_same_genre,6.44,25.76,9.5
+neither_match,9.1,36.4,10.27
